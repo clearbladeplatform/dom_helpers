@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,dom_helpers",
+    "logging_enabled": "false",
+    "name": "dom_helpersSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "dom_helpersSmokeTest.js"
+}
